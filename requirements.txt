@@ -1,1 +1,3 @@
 numpy==1.14.5
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sandrabcode/binder_workshop/master)
